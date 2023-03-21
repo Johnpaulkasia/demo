@@ -1,0 +1,9 @@
+{
+	"name": "etlprocessdemo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cabac30e-1272-459d-b272-865ba732d56f",
+		"tenantId": "0133bb48-f790-4560-a64d-ac46a472fbbc"
+	}
+}
